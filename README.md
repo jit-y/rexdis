@@ -1,5 +1,7 @@
 # RexdisObjects
 
+[![Build Status](https://travis-ci.org/jit-y/rexdis_objects.svg?branch=master)](https://travis-ci.org/jit-y/rexdis_objects)
+
 **TODO: Add description**
 
 ## Installation
